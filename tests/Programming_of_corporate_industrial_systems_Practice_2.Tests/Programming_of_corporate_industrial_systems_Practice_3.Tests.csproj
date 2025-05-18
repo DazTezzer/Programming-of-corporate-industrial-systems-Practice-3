@@ -17,8 +17,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\Programming_of_corporate_industrial_systems_Practice_2_client\Programming_of_corporate_industrial_systems_Practice_2_client.csproj" />
-    <ProjectReference Include="..\..\src\Programming_of_corporate_industrial_systems_Practice_2_server\Programming_of_corporate_industrial_systems_Practice_2_server.csproj" />
+    <ProjectReference Include="..\..\src\Programming_of_corporate_industrial_systems_Practice_3_client\Programming_of_corporate_industrial_systems_Practice_3_client.csproj" />
+    <ProjectReference Include="..\..\src\Programming_of_corporate_industrial_systems_Practice_3_server\Programming_of_corporate_industrial_systems_Practice_3_server.csproj" />
   </ItemGroup>
 
 </Project>

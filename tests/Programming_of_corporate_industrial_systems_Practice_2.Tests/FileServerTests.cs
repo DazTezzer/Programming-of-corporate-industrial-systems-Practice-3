@@ -4,9 +4,9 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 using Xunit;
-using Programming_of_corporate_industrial_systems_Practice_2_server;
-using Programming_of_corporate_industrial_systems_Practice_2_server.Models;
-using Programming_of_corporate_industrial_systems_Practice_2_server.Services;
+using Programming_of_corporate_industrial_systems_Practice_3_server;
+using Programming_of_corporate_industrial_systems_Practice_3_server.Models;
+using Programming_of_corporate_industrial_systems_Practice_3_server.Services;
 
 namespace Programming_of_corporate_industrial_systems_Practice_2.Tests
 {
